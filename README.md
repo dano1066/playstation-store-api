@@ -32,4 +32,4 @@ The store does not give back trophy counts in the response. Multiple Skus on the
 
 
 
-[NerdBurglarsTrophies]: <https://nerdburglars.net/trophiesmenu/latest/latest/1/>
+[NerdBurglarsTrophies]: <https://nerdburglars.net/psn/>
